@@ -9,7 +9,7 @@
 </ul>
 
 
-<h1>Unterrichtsplan: </h1><a  href="media/gw-theo.pdf"  target="_blank">Zum Download hier klicken</a><br><br>
+<h1>Unterrichtsplan: </h1><a  href="https://drive.google.com/file/d/0BwdMPaPUQSkFX3dyWlQtbk1kYUU/view?usp=sharing"  target="_blank">Zum Anzeigen hier klicken</a><br><br>
 
 
 <address>
