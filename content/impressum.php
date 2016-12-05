@@ -5,8 +5,10 @@
      </tr>
      <tr>
        <td>Verantwortlich</td>
-       <td>Heiner Thimsen, Geschäftsführer</td>
-     </tr> <tr> <td>E-Mail</td>
+       <td>Heiner Thimsen, Inhaber</td>
+     </tr>
+     <tr>
+       <td>E-Mail</td>
        <td>
          <a href="mailto:heiner.thimsen@gmx.de">heiner.thimsen@gmx.de</a>
        </td>
@@ -22,5 +24,9 @@
         <tr>
           <td>Steuernummer: </td>
           <td>15/186/60100</td>
+        </tr>
+        <tr>
+          <td>Aufsichtsbehörde</td>
+          <td>Kreis Schleswig-Flensburg Flensburger Str. 7 24837 Schleswig</td>
         </tr>
   </table>
