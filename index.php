@@ -36,16 +36,18 @@
                         <li><a href="#filialen">Filialen</a></li>
                         <li><a href="#faq">FAQ</a></li>
                         <li><a href="#contact">Kontakt</a></li>
+                        <li><a href="#impressum">Impressum</a></li>
+
                     </ul>
                 </nav>
             </header>
         </div>
         <main>
             <section>
-                <?php include('content/start.php'); ?>
+                <?php include 'content/start.php'; ?>
             </section>
             <section class="section-standard">
-                <?php include('content/about.php'); ?>
+                <?php include 'content/about.php'; ?>
             </section>
             <figure class="section-image_menschen">
                 <img name="angebote" id="angebote" src="media/menschen.jpg" alt="Fahrschule-Thimsen - Unser Team">
@@ -54,7 +56,7 @@
                 </figcaption>
             </figure>
             <section class="section-standard">
-                <?php include('content/angebote.php'); ?>
+                <?php include 'content/angebote.php'; ?>
             </section>
             <figure name="filialen" id="filialen" class="section-image">
                 <img src="media/map.jpg" alt="Fahrschule-Thimsen - Unsere Standorte">
@@ -63,7 +65,7 @@
                 </figcaption>
             </figure>
             <section class="section-standard">
-                <?php include('content/filialen.php'); ?>
+                <?php include 'content/filialen.php'; ?>
             </section>
             <figure name="faq" id="faq" class="section-image-faq">
 
@@ -73,7 +75,7 @@
                 </figcaption>
             </figure>
             <section class="section-standard">
-                <?php include('content/faq.php'); ?>
+                <?php include 'content/faq.php'; ?>
             </section>
             <figure name="contact" id="contact" class="section-image">
                 <img src="media/freifunk-flensburg-kontakte.jpg" alt="Kontakte Bild">
@@ -82,8 +84,20 @@
                 </figcaption>
             </figure>
             <section class="section-standard">
-                <?php include('content/contact.php'); ?>
+                <?php include 'content/contact.php'; ?>
             </section>
+            
+            <figure name="impressum" id="impressum" class="section-image">
+<article class="impressum_text"></article>
+
+            </figure>
+
+                <?php include 'content/impressum.php'; ?>
+
+
+
+
+
         </main>
         <footer class="main-footer">
             <ul class="list-external-links">
