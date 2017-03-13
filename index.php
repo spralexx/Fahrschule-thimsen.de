@@ -13,7 +13,7 @@
         ">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="keywords" content="Fahrschule, Thimsen, Fahrschule-Thimsen, Großenwiehe, Lindewitt, Tarp, Schafflund, Ausbildung, Fahrschule-tarp, fahrschule-großenwiehe">
-        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="assets/stylesheets/style.css">
         <link rel="icon" sizes="64x64" href="favicon.ico">
         <meta name="theme-color" content="#fecc00">
@@ -86,7 +86,7 @@
             <section class="section-standard">
                 <?php include 'content/contact.php'; ?>
             </section>
-            
+
             <figure name="impressum" id="impressum" class="section-image">
 <article class="impressum_text"></article>
 
