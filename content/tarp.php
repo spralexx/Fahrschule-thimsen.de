@@ -3,7 +3,8 @@
 <h1>Öffnungszeiten:</h1>
 <ul class="gw_filliale_oeffnungszeiten">
     <li><h1>Büro:</h1></li>
-    <li class="gw_date_line">Mo. und Do. 17:00-19:00 Uhr</li>
+    <li class="gw_date_line">Mo. 18:00-19:00 Uhr</li>
+    <li class="gw_date_line">Do. 17:00-19:00 Uhr</li>
     <li><h1>Unterricht:</h1></li>
     <li class="gw_date_line">Mo. und Do. 19:00-20:30 Uhr</li>
 </ul>
