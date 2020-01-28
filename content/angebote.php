@@ -38,7 +38,7 @@ Maximal einen Punkt in Flensburg
 </ul>
 <br>
 
-Ist die Praktische Prüfung bestenden, muss bis zum 18. Geburtstag eine der eingetragenen Personen, nüchtern im Auto mitfahren. 
+Ist die Praktische Prüfung bestanden, muss bis zum 18. Geburtstag eine der eingetragenen Personen, nüchtern im Auto mitfahren. 
 Auf welchem Gurtplatz die Begleitperson sitzt, spielt keine Rolle. Ein höchstalter gibt es für Begleitpersonen nicht.
 <br>
 <h3>BFK-Weiterbildung</h3>
