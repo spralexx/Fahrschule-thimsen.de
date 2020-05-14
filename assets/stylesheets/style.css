@@ -589,6 +589,18 @@ html.sticky .logo a {
     }
 }
 
+/*  coronaInfo section
+    ========================================================================== */
+.coronaInfo_main{
+    background-color: #f9c743;
+    padding:1em;
+
+}
+
+.coronaInfo_main h1{
+    font-size: 2em;
+    text-align: center;
+}
 
 
 

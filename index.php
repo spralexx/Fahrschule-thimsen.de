@@ -47,6 +47,9 @@
                 <?php include 'content/start.php'; ?>
             </section>
             <section class="section-standard">
+                <?php include 'content/coronaInfo.php'; ?>
+            </section>
+            <section class="section-standard">
                 <?php include 'content/about.php'; ?>
             </section>
             <figure class="section-image_menschen">
