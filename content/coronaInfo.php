@@ -1,5 +1,5 @@
 <div class="coronaInfo_main">
-    <h1>Es geht weiter</h1>
+    <h1>Corona-News</h1>
     <p>
         Liebe Fahrschüler,
         Corona hat uns leider immer noch fest im Griff. Nachdem wir den ersten Lockdown aus März 2020
