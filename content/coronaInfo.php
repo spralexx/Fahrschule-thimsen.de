@@ -1,45 +1,74 @@
 <div class="coronaInfo_main">
     <h1>Corona-News</h1>
+    <h2>
+        Liebe Fahrschülerinnen, liebe Fahrschüler und liebe Eltern und
+        Erziehungsberechtigten.
+    </h2>
     <p>
-        Liebe Fahrschüler,
-        Corona hat uns leider immer noch fest im Griff. Nachdem wir den ersten Lockdown aus März 2020
-        mit viel Einsatz überstanden haben, finden wir uns jetzt im zweiten Lockdown wieder. Voraussichtlich
-        werden wir erst Anfang Februar wieder öffnen können. Ob dieser Termin gehalten werden kann, ist
-        leider auch nicht sicher. Somit wird der Fahrschulbetrieb weiterhin ruhen.
+        Ab Montag den 08.03.2021 dürfen wir unsere Filialen in Tarp, Großenwiehe und Schafflund
+        wieder öffnen. Die Bürozeiten und der theoretische Unterricht können demnach wieder
+        nach den euch bekannten Zeiten stattfinden. Es ist jedoch das Tragen einer medizinischen
+        Mund-Nasen-Bedeckung während des gesamten Aufenthalt in den Räumlichkeiten der
+        Fahrschulen zwingend erforderlich.
     </p>
     <p>
-        Das bedeutet, dass alle Prüfaufträge um die Zeit des Lockdown verlängert werden, so dass ihr, wenn
-        es wieder losgeht, alle eure Ausbildung abschließen könnt. Alle Schüler die ihren Fahrerlaubnisantrag
-        noch nicht vollständig bei uns abgegeben haben, können nach telefonischer Absprache mit uns, die
-        fehlenden Unterlagen bei uns zu Hause abgeben. Die Adresse ist:
+        Praktische Fahrstunden dürfen auch wieder gegeben werden. Hier gibt es jedoch einige
+        Anpassungen aufgrund der Regelungen in Flensburg. Ein Wechsel der Fahrschüler ist zurzeit
+        in Flensburg nicht erlaubt. Dementsprechend werden die Fahrstunden, falls gewünscht und
+        persönlich machbar, von 90 min auf 135 min verlängert. Als Wechselpunkte werden die
+        Fahrschulen angefahren, die in der Nähe der Fahrschüler liegen. Das Vorzeigen eines
+        aktuellen negativen Corona-Schnelltests zu Beginn der Fahrstunde wird begrüßt (einer pro
+        Woche ist kostenlos und ausreichend).
+    </p>
+    <p>
+        Die Bezahlung der Fahrstunden muss per Lastschrift oder per Vorabüberweisung erfolgen
+        (Bareinzahlungen sind in der Fahrschule möglich). Das heißt, Fahrstunden bekommt nur
+        derjenige, der bei Terminvereinbarung eine Gutschrift auf seinem Fahrschulkonto vorweisen
+        kann, oder ein Sepa-Mandat abgegeben hat. Wir bitten um Verständnis, dass wir nach drei
+        Monaten Schließung leider zu solchen Maßnahmen gezwungen sind.
     </p>
 
-    <address>
-        Telefon: <a href="tel:04604620">04604-620</a> <br>
-        Mobil: <a href="tel:01713824475">01713824475</a> <br>
-        Fahrschule-Thimsen <br>
-        Nordhackstedter Str. 15 <br>
-        24969 Kleinwiehe
-    </address>
+    <table>
+        <tr>
+            <th> </th>
+            <th>Schafflund</th>
+            <th>Großenwiehe</th>
+            <th>Tarp</th>
+        </tr>
+        <tr>
+            <td> </td>
+            <td>Montag und Mittwoch</td>
+            <td>Dienstag und Donnerstag</td>
+            <td>Montag und Donnerstag</td>
+        </tr>
+        <tr>
+            <td>Büro:</td>
+            <td>17:00 – 19:00</td>
+            <td>17:00 – 19:00</td>
+            <td>17:00 – 19:00</td>
+        </tr>
+        <tr>
+            <td>Untericht:</td>
+            <td>19:00 – 20:30</td>
+            <td>19:00 – 20:30</td>
+            <td>19:00 – 20:30</td>
+        </tr>
+
+    </table>
     <p>
-        Wir werden dann die Anträge an den Kreis weiterleiten. Diese Maßnahme verkürzt eure Wartezeit
-        und hilft der Führerscheinstelle des Kreises bei der Abarbeitung eurer Anträge.
+        Die angepassten Unterrichtspläne findet ihr unter den jeweiligen Filialen weiter untern auf
+        dieser Seite.
     </p>
     <p>
-        Wir werden ab sofort auch Werktags zwischen 17 und 19 Uhr unter den gleichen Telefonnummern
-        Neuanmeldungen und Beratungen rund um den Führerschein anbieten, um das Wiederhochfahren
-        des Fahrschulbetriebs nach Ende des Lockdowns zu entzerren.
+        Wir bedanken uns recht herzlich für eure Geduld und hoffen, dass wir nun dauerhaft
+        geöffnet bleiben dürfen. Bitte haltet euch an alle Maßnahmen und bleibt gesund. Wir
+        wünschen viel Erfolg bei der Ausbildung zum Führerschein!
     </p>
     <p>
-        Theoretischer Online Unterricht wird in Schleswig - Holstein leider nicht anerkannt. Wir haben
-        verstärkt Anfragen diesbezüglich. Das ist auch aus unserer Sicht nur schwer nachzuvollziehen und
-        sehr unbefriedigend.
+        Für Fragen und Sorgen stehen wir euch jederzeit unter 04604/620 zur Verfügung!
     </p>
-    <p>
-        Abschließend wünschen wir allen ein Corona freies Jahr mit hoffentlich wiederkehrender Normalität.
-    </p>
-    <p>
-        Viele Grüße,
-        euer Fahrschulteam
-    </p>
+    <h2>
+        Euer Fahrschulteam
+        Heiner, Hanna, Andrea, André und Anja
+    </h2>
 </div>

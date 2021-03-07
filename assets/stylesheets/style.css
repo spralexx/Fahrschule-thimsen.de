@@ -594,13 +594,32 @@ html.sticky .logo a {
 .coronaInfo_main{
     background-color: #f9c743;
     padding:1em;
+    
 
+}
+.coronaInfo_main table {
+    border: 0.15em solid lightgrey;
+    border-radius: 0.5em;
+    border-spacing: 0.2em;
+    border-collapse: separate;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
 }
 
 .coronaInfo_main h1{
     font-size: 2em;
     text-align: center;
 }
+
+.coronaInfo_main table tbody tr:nth-child(even) {
+    background: #fff9de
+  }
+ 
+  .coronaInfo_main table tbody tr:nth-child(odd) {
+    background: #f9c743
+  }
 
 
 
