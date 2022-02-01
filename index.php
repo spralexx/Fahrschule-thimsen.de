@@ -47,7 +47,7 @@
                 <?php include 'content/start.php'; ?>
             </section>
             <section class="section-standard">
-                <?php include 'content/coronaInfo.php'; ?>
+                <?php include 'content/infoContainer.php'; ?>
             </section>
             <section class="section-standard">
                 <?php include 'content/about.php'; ?>
