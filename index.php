@@ -46,9 +46,9 @@
             <section>
                 <?php include 'content/start.php'; ?>
             </section>
-            <section class="section-standard">
+<!--             <section class="section-standard">
                 <?php include 'content/infoContainer.php'; ?>
-            </section>
+            </section> -->
             <section class="section-standard">
                 <?php include 'content/about.php'; ?>
             </section>
