@@ -9,7 +9,7 @@
 </ul>
 
 
-<h1>Unterrichtsplan: </h1><a  href="https://drive.google.com/file/d/0BwdMPaPUQSkFWHNiU1poQW1wZ3M/view?usp=sharing"  target="_blank">Zum Anzeigen hier klicken</a><br><br>
+<h1>Unterrichtsplan: </h1><a  href="https://docs.google.com/spreadsheets/d/0BwdMPaPUQSkFWHNiU1poQW1wZ3M/edit?usp=share_link&ouid=111096330710737235903&resourcekey=0-WgS_m7km6WmWAHiQtLUQeA&rtpof=true&sd=true"  target="_blank">Zum Anzeigen hier klicken</a><br><br>
 
 
 <address>

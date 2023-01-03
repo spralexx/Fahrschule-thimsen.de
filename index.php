@@ -8,11 +8,11 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Fahrschule-Thimsen</title>
-        <meta name="description" content="Wir sind die Fahrschule Thimsen, die Fahrschule mit Köpfchen und Filialen in Schafflund, Großenwiehe und Tarp.
+        <meta name="description" content="Wir sind die Fahrschule Thimsen, die Fahrschule mit Köpfchen und Filialen in Schafflund und Großenwiehe.
         Wir bilden alle Führerscheinklassen aus und Berufskraftfahrer weiter.
         ">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="keywords" content="Fahrschule, Thimsen, Fahrschule-Thimsen, Großenwiehe, Lindewitt, Tarp, Schafflund, Ausbildung, Fahrschule-tarp, fahrschule-großenwiehe">
+        <meta name="keywords" content="Fahrschule, Thimsen, Fahrschule-Thimsen, Großenwiehe, Lindewitt, Schafflund, Ausbildung, fahrschule-großenwiehe">
         <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="assets/stylesheets/style.css">
         <link rel="icon" sizes="64x64" href="favicon.ico">

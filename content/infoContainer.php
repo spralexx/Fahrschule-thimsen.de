@@ -20,7 +20,6 @@
             <th> </th>
             <th>Schafflund</th>
             <th>Großenwiehe</th>
-            <th>Tarp</th>
         </tr>
         <tr>
             <td>Datum</td>
